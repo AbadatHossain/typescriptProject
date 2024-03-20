@@ -22,7 +22,7 @@ console.log(`your userId: ${userId}, userName: ${firstName+lastName}, isActivate
 console.log(firstName.split(""))
 
 
-function toDisplay():void{
-    console.log("abadat")
-}
-toDisplay()
+// function toDisplay():void{
+//     console.log("abadat")
+// }
+// toDisplay()
