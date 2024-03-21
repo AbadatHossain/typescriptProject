@@ -7,3 +7,6 @@ function multiply(a, b) {
     return a * b;
 }
 console.log(multiply(2, 3));
+let fruits = ['a', 'b', 'c'];
+fruits.push('2');
+console.log(fruits);
